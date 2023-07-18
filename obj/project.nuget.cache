@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9KxVcvG7C16FGsgNRjaRaXNVpj4X3nx3kkknGcA3PBjkEa9mg8fXzKlAgDyJbjuDZX14sSBMLcfYIPOhLh1RA==",
+  "success": true,
+  "projectFilePath": "/Users/betulsahan/homework-1/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/betulsahan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/betulsahan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/betulsahan/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/betulsahan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/betulsahan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/betulsahan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
